@@ -1,0 +1,1 @@
+const config = require('./common/config/env.config.js');
